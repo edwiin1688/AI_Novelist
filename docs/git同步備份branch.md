@@ -3,9 +3,9 @@
 ## 添加【自訂遠端】
 ```bash
 # 語法：git remote add <自訂名稱> <專案的路徑或URL>
-git remote add edwin45168899 https://github.com/edwin45168899/AI_Novelist.git
+git remote add edwin45168899 git@github.com:edwin45168899/AI_Novelist.git
 ```
-`https://github.com/edwin45168899/AI_Novelist.git` 查一下 C:\Users\chiis\.ssh\config 裡面的設定
+`git@github.com:edwin45168899/AI_Novelist.git` 查一下 C:\Users\chiis\.ssh\config 裡面的設定
 
 ## 查看新增的【自訂遠端】
 ```bash
